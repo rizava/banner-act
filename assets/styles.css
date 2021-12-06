@@ -1,0 +1,25 @@
+.servicios{
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    margin: 5em 0 1em 2em;
+    font-size: 20px;
+}
+
+
+.cards-container{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card{
+    width: 20%;
+    height: 20%;
+
+    margin: 5em 1em 4em 1em;
+    justify-content: center;
+}
+.card-text {
+    text-align: justify;
+    padding: 10px 20px 10px 20px;
+}
